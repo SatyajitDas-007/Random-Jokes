@@ -11,7 +11,7 @@
  body {  
   /* background-color: rgb(37, 38, 39);   */
   color: white; 
-  background-image:url('/cosmos.jpg'); 
+  background-image:url('cosmos.jpg'); 
   background-repeat:repeat;
  }  
  section {  
